@@ -1,7 +1,7 @@
 # My Personal Portfolio
 
 
-![ My Personal Portfolio ](D:\Projects\personal-portfolio\src\ReadMe-Image.png)
+![ My Personal Portfolio ](D:\Projects\personal-portfolio\src\assets\images\ReadMe-Image.png)
 
 
 
