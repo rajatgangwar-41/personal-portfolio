@@ -1,3 +1,4 @@
+/************ Custom Font ************/
 @font-face {
 	font-family: Centra;
 	src: url('D:/Projects/personal-portfolio/src/assets/fonts/CentraNo2-Bold.ttf');
@@ -30,7 +31,7 @@ body {
   font-weight: 400;
   overflow-x: hidden;
   position: relative;
-  background-color: #0b0b0b !important;
+  background-color: #121212 !important;
   color: #fff !important;
   font-family: 'Centra', sans-serif !important;
 }
@@ -94,7 +95,7 @@ nav.navbar.scrolled {
   background-color: #121212;
 }
 nav.navbar a.navbar-brand {
-    width: 10%;
+    width: 9%;
 }
 nav.navbar .navbar-nav .nav-link.navbar-link {
   font-weight: 400;
@@ -110,7 +111,7 @@ nav.navbar .navbar-nav a.nav-link.navbar-link.active {
 }
 span.navbar-text {
     display: flex;
-    align-items: left;
+    align-items: center;
 }
 .social-icon {
     display: inline-block;
@@ -125,8 +126,8 @@ span.navbar-text {
     margin-right: 6px;
     align-items: center;
     justify-content: center;
-    line-height: 2;
-    border: 1px solid #fff;
+    line-height: 1;
+    border: 1px solid rgba(255, 255, 255, 0.5);
 }
 .social-icon a::before {
     content: "";
@@ -142,7 +143,7 @@ span.navbar-text {
     transform: scale(1);
 }
 .social-icon a img {
-	width: 40%;
+	width: 70%;
 	z-index: 1;
 	transition: 0.3s ease-in-out;
 }
@@ -297,6 +298,46 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .txt-rotate > .wrap {
   border-right: 0.08em solid #666;
+}
+
+/************ Education Css ************/
+.education {
+  padding: 0 0 50px 0;
+  position: relative;
+}
+.education-bx {
+  background: #151515;
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: -60px;
+}
+.education h2 {
+	font-size: 45px;
+	font-weight: 700;
+}
+.education p {
+    color: #B8B8B8;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    margin: 14px 0 75px 0;
+}
+.education-slider {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+.education-slider .item img {
+  width: 50%;
+  margin: 0 auto 15px auto;
+}
+.background-image-left {
+  top: 28%;
+  position: absolute;
+  bottom: 0;
+  width: 40%;
+  z-index: -4;
 }
 
 /************ Skills Css ************/
