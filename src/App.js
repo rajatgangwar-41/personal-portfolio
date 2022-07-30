@@ -6,6 +6,7 @@ import { Banner } from "./components/Banner";
 import { Education } from "./components/Education";
 import { Skills } from "./components/Skills";
 import { Projects } from "./components/Projects";
+import { Contact } from "./components/Contact";
 
 
 function App() {
@@ -18,6 +19,8 @@ function App() {
       <Skills />
       <br/><br/><br/>
       <Projects/>
+      <br/><br/><br/>
+      <Contact/>
     </div>
   );
 }
