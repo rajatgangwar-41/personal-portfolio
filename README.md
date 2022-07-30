@@ -1,7 +1,7 @@
 # My Personal Portfolio
 
 
-![ My Personal Portfolio ](C:\Users\Rajat\OneDrive\Pictures\Screenshots)
+![ My Personal Portfolio ](D:\Projects\personal-portfolio\src)
 
 
 
