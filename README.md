@@ -59,7 +59,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## License
 
-This project has copyright issued in the name of th owner of the Project.
+This project has copyright issued in the name of the owner of the Project.
 
 ## Acknowledgements
 
