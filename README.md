@@ -7,6 +7,8 @@
 # About
 
 This a personal portfolio profile which highlights the professional life of the individual.
+Rajat gangwar
+B-Tech, MNNIT
 
 ## Tech Used
 
