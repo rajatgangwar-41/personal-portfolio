@@ -1,7 +1,7 @@
 # My Personal Portfolio
 
 
-![ My Personal Portfolio ](D:\Projects\personal-portfolio\src\assets\images\ReadMe-Image.png)
+![ My Personal Portfolio ](https://github.com/rajatgangwar-41/personal-portfolio/blob/master/src/assets/images/ReadMe-Image.png)
 
 
 
